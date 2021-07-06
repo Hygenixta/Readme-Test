@@ -29,7 +29,7 @@
 </tr>
 <tr>
 <td><strong>Links and images</strong></td>
-<td><a style="font-weight: bold; color: #000; cursor: pointer; text-decoration: underline;" title="Demo link" href="https://html-online.com" target="_blank">This is a text link</a> and this is an image: <img style="border: 2px solid #4485b8; border-radius: 15px;" src="/images/smiley.png" alt="laughing" width="20" height="20" /></td>
+<td><a style="font-weight: bold; color: #000; cursor: pointer; text-decoration: underline;" title="Demo link" href="https://html-online.com" target="_blank">This is text with link</a> and this is an image: <img style="border: 2px solid #4485b8; border-radius: 15px;" src="/images/smiley.png" alt="laughing" width="20" height="20" /></td>
 <td>And this is a link image: <a style="cursor: pointer;" title="Image link" href="https://html-cleaner.com" target="_blank"><img src="/images/smiley.png" alt="smiley" /></a></td>
 </tr>
 <tr>
